@@ -42,23 +42,6 @@ The tools listed below represent the core technologies I am utilizing to master 
 | **MySQL** | Structured relational data management |
 | **MongoDB** | Unstructured or semi-structured NoSQL data |
 
-#### Tool Breakdown:
-
-![](https://www.dcncsciences.com/wp-content/uploads/2023/09/Python-Symbol_0.png)
-> **Python:** A high-level, open-source language that I prioritize for data analysis, automation, and general software development.
-
-![](https://www.irinadelgado.com/wp-content/uploads/2020/04/irina-delgado-5-Ventajas-de-usar-Visual-Studio-Code-como-tu-editor-de-texto.png)
-> **Visual Studio Code (VS Code):** My preferred lightweight source code editor, developed by Microsoft, utilized for its versatility and Git integration.
-
-![](https://bookdown.org/andersson_vargas/aprendiendo_r_studio_-_avm/Imagenes/RStudio-Logo-Flat.png)
-> **R & RStudio:** R provides the statistical programming power, while RStudio serves as the integrated development environment (IDE) for an organized workflow.
-
-![](https://media.licdn.com/dms/image/v2/D4D12AQGOVSednILAUQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1694616033281?e=2147483647&v=beta&t=l7Rd4WLlaOg1fnWKyuJMdRROYIvM-8tt8So1JYW4CJQ)
-> **MySQL:** An open-source relational database management system (RDBMS) maintained by Oracle, essential for handling structured data.
-
-![](https://i.blogs.es/a49483/logo-mongodb-tagline-2/650_1200.png)
-> **MongoDB:** A document-oriented NoSQL database system chosen for its high scalability and flexibility in modern data management.
-
 ---
 
 ### Conclusion & Future Roadmap
